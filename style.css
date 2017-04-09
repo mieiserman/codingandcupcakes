@@ -1,0 +1,18 @@
+html, body {
+	background: #7433FF;
+	font-family: 'Lato', sans-serif;
+	color: #212F3D;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+.header{
+	overflow: auto;
+	display: block;
+	clear:both;
+	background: #FF3390;
+}
+ul.menu li  a.selected {
+	background: FF3390;
+	border-bottom: solid 5px #FF005B;
+}
